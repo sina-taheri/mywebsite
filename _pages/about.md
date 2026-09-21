@@ -37,7 +37,8 @@ My research broadly includes mathematical foundations of signal processing and m
 
 Please feel free to contact me at: sina(dot)mohammadtaheri(at)concordia(dot)ca
 
-# Publications
+---
+## Publications
 1. S M-T, Matthew J. Colbrook, and Simone Brugiapaglia. [*Deep greedy unfolding: Sorting out argsorting in greedy sparse recovery algorithms.*](https://arxiv.org/abs/2505.15661) arXiv:2505.15661 (2025)
 2. S M-T, and Simone Brugiapaglia. [*The greedy side of the LASSO: New algorithms for weighted sparse recovery via loss function-based orthogonal matching pursuit.*](https://link.springer.com/article/10.1007/s43670-025-00098-0) Sampling Theory, Signal Processing, and Data Analysis 23.1 (2025): 3
 3. S M-T, Matthew J. Colbrook, and Simone Brugiapaglia. [*OMP-Net: Neural network unrolling of weighted Orthogonal Matching Pursuit.*](https://ieeexplore.ieee.org/abstract/document/10720377/) 2024 International Workshop on the Theory of Computational Sensing and its Applications to Radar, Multimodal Sensing and Imaging (CoSeRa). IEEE, 2024.
