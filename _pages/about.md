@@ -35,7 +35,7 @@ My background is in biomedical signal processing and I graduated in a MSc. from 
 My research interests broadly include mathematical foundations of signal processing and machine learning, motivated by concrete applications, especially in health and biomedics. More particularly
   * Compressive sensing and sparse recovery.
   * Applied harmonic analysis.
-  * Mathematical foundations of neural networks.
+  * Mathematics of neural networks.
 
 I've recently developed interests in topology and partial differential equations, and am keen to explore these topics further.
 
