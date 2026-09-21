@@ -39,7 +39,7 @@ My research interests broadly include mathematical foundations of signal process
 
 I've recently developed interests in topology and partial differential equations, and am keen to explore these topics further.
 
-Please feel free to contact me at: sina(dot)mohammadtaheri(at)concordia(dot)com
+Please feel free to contact me at: sina(dot)mohammadtaheri(at)concordia(dot)ca
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
