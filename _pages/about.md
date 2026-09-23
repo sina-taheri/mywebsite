@@ -28,7 +28,7 @@ latest_posts:
 ---
 Hello, welcome to my website! 
 
-I am a postdoctoral fellow, at the [department of Mathematics and Statistics of Concordia University](https://www.concordia.ca/artsci/math-stats.html) in Montréal, Canada, working with Drs [Simone Brugiapaglia](https://sites.google.com/view/paglia/) (Concordia University) and [Ben Adcock](https://benadcock.org/) (Simone Fraser University). I also did my PhD at the same department supervised by Simone. Before mathematics, I graduated in masters of bio-electrical engineering from the department of biomedical engineering at Shiraz University in Shiraz, Iran, supervised by Dr. [Mohammad-Ali Masnadi-Shirazi](https://scholar.google.com/citations?user=qHre5c0AAAAJ&hl=en).
+I am a postdoctoral fellow, at the [department of Mathematics and Statistics of Concordia University](https://www.concordia.ca/artsci/math-stats.html) in Montréal, Canada, working with [Simone Brugiapaglia](https://sites.google.com/view/paglia/) (Concordia University) and [Ben Adcock](https://benadcock.org/) (Simone Fraser University). I also did my PhD at the same department supervised by Simone. Before mathematics, I graduated in masters of bio-electrical engineering from the department of biomedical engineering at Shiraz University in Shiraz, Iran, supervised by [Mohammad-Ali Masnadi-Shirazi](https://scholar.google.com/citations?user=qHre5c0AAAAJ&hl=en).
 
 My research broadly includes mathematical foundations of signal processing and machine learning, motivated by concrete applications, especially in health and biomedics. Particularly
   * Compressive sensing and sparse recovery,
