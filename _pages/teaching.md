@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 calendar: false
 ---
-The following is an excerpt from a longer essay that I wrote a while back, is by no means complete (and was not supposed to be so), but partly manifests my point of view about what I value when I have the chance to stand on the other side of the classroom. The list of teaching experiences that comes after, all of them (or most depending on when you read this!) were during my time at the department of Mathematics and Statistics of Concordia University.
+The following is an excerpt from a longer essay that I wrote a while back, it is by no means complete (and was not supposed to be so) but partly manifests my point of view about what I value when I'm lucky enough to be on the other side of the classroom. The list of teaching experiences that comes after, all of them (or most depending on when you read this!) were during my time at the department of Mathematics and Statistics of Concordia University.
 
 > I firmly believe that education should be accessible to everyone, regardless of their background, ethnicity, race, gender, economical or social class, etc. Unfortunately, history (and current time) shows that mankind has struggled to achieve this ideal and it is partly on our shoulders to remove these barriers and create opportunities for all...
 >
