@@ -31,9 +31,9 @@ The following is an excerpt from a longer essay that I wrote a while back, it is
   
 I also worked as the WebWork system administrator for Fall 2022-Summer 2024 and Winter 2025-Summer 2025. WeBWorK is an online homework delivery system.
 
-[//]: # (This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.)
+[//]: #(This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.)
 
-[//]: # ({% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %})
+[//]: #({% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %})
 
-[//]: # ({% include courses.liquid %})
+[//]: #({% include courses.liquid %})
 
