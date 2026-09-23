@@ -37,14 +37,6 @@ My research broadly includes mathematical foundations of signal processing and m
 
 Please feel free to contact me at: sina(dot)mohammadtaheri(at)concordia(dot)ca
 
----
-## Publications
-1. S M-T, Matthew J. Colbrook, and Simone Brugiapaglia. [*Deep greedy unfolding: Sorting out argsorting in greedy sparse recovery algorithms.*](https://arxiv.org/abs/2505.15661) arXiv:2505.15661 (2025)
-2. S M-T, and Simone Brugiapaglia. [*The greedy side of the LASSO: New algorithms for weighted sparse recovery via loss function-based orthogonal matching pursuit.*](https://link.springer.com/article/10.1007/s43670-025-00098-0) Sampling Theory, Signal Processing, and Data Analysis 23.1 (2025)
-3. S M-T, Matthew J. Colbrook, and Simone Brugiapaglia. [*OMP-Net: Neural network unrolling of weighted Orthogonal Matching Pursuit.*](https://ieeexplore.ieee.org/abstract/document/10720377/) 2024 International Workshop on the Theory of Computational Sensing and its Applications to Radar, Multimodal Sensing and Imaging (CoSeRa). IEEE, 2024.
-4. S M-T, Mohammad-Ali M. Shirazi, and Amin Rafiezade, [*Slope analysis based methods for detection of ventricular fibrillation and ventricular tachycardia*](https://ieeexplore.ieee.org/abstract/document/7585685/?reload=true), in Electrical Engineering (ICEE), 2016 24th Iranian Conference on. IEEE, 2016, pp. 1100–1103
-5. Sina Mohammad-Taheri, [*Greedy sparse recovery algorithms: from weighted generalizations to deep unrolling*](https://spectrum.library.concordia.ca/id/eprint/996047/), PhD thesis, Concordia University.
-
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.)
